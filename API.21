@@ -1,0 +1,9 @@
+@@ -1,6 +1,6 @@
+* text=auto	* text=auto
+
+
+/.github        export-ignore
+/build          export-ignore	/build          export-ignore
+.travis.yml     export-ignore	.travis.yml     export-ignore
+README.md       export-ignore	README.md       export-ignore
+CONTRIBUTING.md export-ignore	
